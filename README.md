@@ -1,4 +1,4 @@
-# machine learning trading algorithm--Lasso model
+# Lasso model
 
 This is a practice of Lasso model in predicting stock returns.
 
